@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-100c8780a8e79344c5516ba6575e37fe3eb09e37.jar" />
+    </item>
+    <item
+        jar="F:\android studio\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d3d2298788835661c5757e654002dcad73052ad3.jar" />
+    </item>
+    <item
+        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-ea32a541411f63b55ee427b14fdd63cabfdc0ae5.jar" />
+    </item>
+    <item
+        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-ff2ff29177d4366a97f963867717fb20829bc2e1.jar" />
+    </item>
+    <item
+        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-a2a60878c2a1e4e901635f25effaf0e060499a04.jar" />
+    </item>
+    <item
+        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-9b89f49147ce2420fd9f762f2932d0e3fd5167b1.jar" />
+    </item>
+
+</items>
