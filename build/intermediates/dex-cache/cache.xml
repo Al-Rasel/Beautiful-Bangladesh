@@ -2,46 +2,166 @@
 <items version="2" >
 
     <item
-        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-100c8780a8e79344c5516ba6575e37fe3eb09e37.jar" />
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_1b30657948b10c4a2908452fc6b8262800e20045.jar" />
     </item>
     <item
-        jar="F:\android studio\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d3d2298788835661c5757e654002dcad73052ad3.jar" />
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_16e4003e6de4d2ab2d7da8eab2941d82c3c1d793.jar" />
     </item>
     <item
-        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-ea32a541411f63b55ee427b14fdd63cabfdc0ae5.jar" />
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_e17a874c8a83e45035f7783c7322d14cfeef9f38.jar" />
     </item>
     <item
-        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-ff2ff29177d4366a97f963867717fb20829bc2e1.jar" />
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_43d0f9f86d067f1d60f1059fdcc65f333b5e975a.jar" />
     </item>
     <item
-        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\classes-a2a60878c2a1e4e901635f25effaf0e060499a04.jar" />
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a5fd0c9732b5d76044e4792e21ab08c8e95ac3c3.jar" />
     </item>
     <item
-        jar="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="E:\Bangladesh\BeautifulBangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-9b89f49147ce2420fd9f762f2932d0e3fd5167b1.jar" />
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a59a898b2c47744592621019440d9013ef5a1e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_79de2906ff2a40d38cd2e282a1836eee059c594b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_28950ca3ecd75b82be427499ac9e2819ec621015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_5f84e16b8cf42a139066f10c6b26fd982ddfb6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_4e7fc92024d84659ee463568136814f4de50eb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ed2b9ab8cc892ec31499be82f264d7ea59dcca68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_e963adb8c352efb45092744dd27d13d89bce04d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_43915cf3437bb73cd75f1a38f3133e9f48442876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_f9aaee1f77cf811a66d2e9d32d8549881ed2e4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_4b5fd61338276fee1c17319d2f731ad494c97f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_9af0fa9a1d4d4fff1e5990763fd867507def1d0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_3f323817f8e125f9dbf3be0170f8c4a4bc0117a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\stable&apos;s next\dd\Beautiful-Bangladesh\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_b129adcdbc8b17472da3eecc1fd00fdf158ba3f5.jar" />
     </item>
 
 </items>
