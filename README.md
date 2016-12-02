@@ -21,8 +21,4 @@ If you find any problem:
 please inform me abuot if u face any problem.
 contact me at my gmail: mdalrasel1@gmail.com.
 
-
-if you want to use my source code, at first email me about your application, I will help you nor
-you don't have any permission to use my source code.
-
 thanks for reading me, wish you a very good day.
